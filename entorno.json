@@ -1,0 +1,11 @@
+{
+ "sistema": "Windows-11-10.0.26200-SP0",
+ "procesador": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+ "nucleos_logicos": 16,
+ "memoria_gb": 31.7,
+ "python": "3.12.10",
+ "numpy": "2.2.6",
+ "pandas": "3.0.3",
+ "scikit_learn": "1.8.0",
+ "xgboost": "3.4.1"
+}
